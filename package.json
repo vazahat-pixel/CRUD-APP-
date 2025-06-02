@@ -1,0 +1,21 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js",
+    "chacha": "echo \"this is chacha\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vazahat qureshi",
+  "license": "ISC",
+  "dependencies": {
+    "cookies": "^0.9.1",
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "jokes": "^0.0.2",
+    "mongoose": "^8.15.1",
+    "nodemon": "^3.1.10"
+  }
+}
